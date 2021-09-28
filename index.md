@@ -12,5 +12,11 @@ some text
 |**Registration deadline**| TBA | 
 |**Workshop**             | TBA | 
 
+## Location 
+Dipartimento di Matematica (DIMA)  
+Università degli Studi di Genova  
+via Dodecaneso, 35,  
+16146 Genoa (GE) - Italy  
+
 
 
