@@ -33,6 +33,8 @@ plugins:
 
 header_pages: 
  - about.md 
+ - sub-reg.md
+ - committee.md 
 
 
 # Exclude from processing.
