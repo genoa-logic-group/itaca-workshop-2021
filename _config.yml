@@ -20,7 +20,7 @@
 
 title: ItaCa 2021 
 # email: your-email@example.com
-description: The 2nd ItaCa Workshop web site  # >- # this means to ignore newlines until "baseurl:"
+description: 2nd ItaCa Workshop # >- # this means to ignore newlines until "baseurl:"
 baseurl: "/itaca-workshop-2021" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -30,6 +30,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages: 
+ - about.md 
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
