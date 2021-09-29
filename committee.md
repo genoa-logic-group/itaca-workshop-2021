@@ -4,7 +4,7 @@ title: Committees
 layout: page 
 ---
 
-## Program Commettee 
+## Program Committee 
 * Jacopo Emmenegger (Università di Genova)
 * Fabrizio Romano Genovese (Università di Pisa, Statebox)
 * Giuseppe Metere (Università di Palermo)
