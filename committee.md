@@ -1,5 +1,6 @@
 ---
 title: Committees 
+permalink: /committees/ 
 
 layout: page 
 ---
@@ -11,10 +12,14 @@ layout: page
 * Martina Rovelli (University of Massachusetts Amherst)
 
 ## Organising Committee 
-* Greta Coraglia (Università di Genova)
-* Francesco Dagnino (Università di Genova)
-* Jacopo Emmenegger (Università di Genova)
-* Enrico Ghiorzi (Istituto Italiano di Tecnologia)
+* Greta Coraglia (Università di Genova)  
+e-mail: coraglia [at] dima [dot] unige [dot] t 
+* Francesco Dagnino (Università di Genova)  
+e-mail: francesco [dot] dagnino [at] dibris [dot] unige [dot] it 
+* Jacopo Emmenegger (Università di Genova)  
+e-mail: emmenegger [at] dima [dot] unige [dot] it 
+* Enrico Ghiorzi (Istituto Italiano di Tecnologia)  
+e-mail: enrico [dot] ghiorzi [at] gmail [dot] com 
 
 
 

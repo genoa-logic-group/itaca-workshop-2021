@@ -1,5 +1,6 @@
 ---
 title: Submissions & Registration 
+permalink: /register-submit/
 
 layout: page 
 ---

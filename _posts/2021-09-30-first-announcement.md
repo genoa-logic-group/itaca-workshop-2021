@@ -30,6 +30,6 @@ We are trying to secure funds to offer shared accommodation to students
 and anyone who does not have access to other funding sources. Further
 information will follow.
 
-For inquiries, please send an e-mail to one of the organisers. 
+For inquiries, please send an e-mail to one of the [organisers]({{ '/committees' | relative_url }}). 
 
 
