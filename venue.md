@@ -4,7 +4,7 @@ title: Venue
 layout: page
 ---
 
-Dipartimento di Matematica - [DIMA](dima.unige.it)  
+Dipartimento di Matematica - [DIMA](https://dima.unige.it)  
 Università degli Studi di Genova  
 via Dodecaneso, 35,  
 16146 Genoa (GE) - Italy  
