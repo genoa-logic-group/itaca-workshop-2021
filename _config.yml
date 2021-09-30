@@ -37,9 +37,9 @@ plugins:
   - jekyll-feed
 
 header_pages: 
- - about.md 
  - sub-reg.md
  - committee.md 
+ - venue.md 
 
 
 # Exclude from processing.
