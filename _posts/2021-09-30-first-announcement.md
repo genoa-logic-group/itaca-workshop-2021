@@ -23,6 +23,8 @@ The workshop will take place *in person*, but we plan to stream the talks
 on the ItaCa and DIMA YouTube channels. We also plan to register the
 talks and to upload them on the ItaCa YouTube channel.
 
+Participation is free of charge, but registration is mandatory. Note that to access DIMA a valid Italian green-pass or equivalent certification is required. 
+
 Due to safety regulations, *the number of participants is limited*.
 Available places are assigned on a first come, first served basis.
 

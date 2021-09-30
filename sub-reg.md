@@ -14,7 +14,7 @@ The registration deadline is **26 November**.
 Due to safety regulations, *the number of participants is limited*.
 Available places are assigned on a first come, first served basis.
 
-Registration is free of charge. 
+Participation is free of charge, but registration is mandatory. 
 We are also trying to secure funds to offer shared accommodation to students
 and anyone who does not have access to other funding sources. 
 
