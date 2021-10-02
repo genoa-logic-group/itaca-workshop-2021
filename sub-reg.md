@@ -11,12 +11,12 @@ If you want to attend the workshop, please fill in the form available [here](htt
 
 The registration deadline is **26 November**.
 
-Due to safety regulations, *the number of participants is limited*.
+Due to safety regulations, the number of participants is limited. 
 Available places are assigned on a first come, first served basis.
 
-Participation is free of charge, but registration is mandatory. 
-We are also trying to secure funds to offer shared accommodation to students
-and anyone who does not have access to other funding sources. 
+For the same reasons, registration is mandatory. Please note also that to access DIMA a valid Italian green-pass or equivalent certification is required. 
+
+Participation is free of charge. We are also trying to secure funds to offer shared accommodation to students and anyone who does not have access to other funding sources. Further information will follow.
 
 
 ## Submission of talk proposals 
@@ -24,7 +24,7 @@ and anyone who does not have access to other funding sources.
 If you want to give a talk, please submit an abstract (max 1 page in
 pdf) to:
 
-<emmenegger@dima.unige.it>
+emmenegger [at] dima [dot] unige [dot] it 
 
 no later than **12 November**. Talks will be approximately 30 minutes long.
 
