@@ -18,7 +18,7 @@ e-mail: coraglia [at] dima [dot] unige [dot] t
 e-mail: francesco [dot] dagnino [at] dibris [dot] unige [dot] it 
 * [Jacopo Emmenegger](https://jacopoemmenegger.wordpress.com/) (Università di Genova)
 e-mail: emmenegger [at] dima [dot] unige [dot] it 
-* Enrico Ghiorzi (Istituto Italiano di Tecnologia)  
+* [Enrico Ghiorzi]/https://enricoghiorzi.github.io) (Istituto Italiano di Tecnologia)  
 e-mail: enrico [dot] ghiorzi [at] gmail [dot] com 
 
 
