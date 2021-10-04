@@ -5,18 +5,22 @@ permalink: /register-submit/
 layout: page 
 ---
 
+
 ## Registration 
 
 If you want to attend the workshop, please fill in the form available [here](https://docs.google.com/forms/d/e/1FAIpQLSeM2NQJGQN9jp8mOj6bDLGKICjJierjNpxB3tOjnHPztE2WSw/viewform?usp=sf_link). 
 
-The registration deadline is **26 November**.
+The registration deadline is 26 November. Participation is free of charge.
 
-Due to safety regulations, the number of participants is limited. 
+Due to safety regulations, the number of participants is limited.
 Available places are assigned on a first come, first served basis.
 
-For the same reasons, registration is mandatory. Please note also that to access DIMA a valid Italian green-pass or equivalent certification is required. 
+Please note also that to access DIMA a valid Italian green-pass or
+equivalent certification is required.
 
-Participation is free of charge. We are also trying to secure funds to offer shared accommodation to students and anyone who does not have access to other funding sources. Further information will follow.
+We are trying to secure funds to offer shared accommodation to students
+and anyone who does not have access to other funding sources. Further
+information will follow.
 
 
 ## Submission of talk proposals 
