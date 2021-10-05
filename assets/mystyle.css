@@ -56,4 +56,27 @@ h1, h2, h3, h4, h5 {
 	color: #351E24;
 }
 
+@media (min-width: 640px) {
+	body {
+		font-family: 'Montserrat', sans-serif;
+	}
+}
+
+/* 
+table {
+		border-collapse: collapse;
+		width: 100%;
+}
+
+th, td {
+		padding: 10px;
+		/* text-align: center; */
+}
+
+table, th, td {
+    border: 1px solid #351E24;
+}
+*/ 
+
+
 
