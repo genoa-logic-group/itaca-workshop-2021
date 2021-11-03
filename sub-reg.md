@@ -18,9 +18,13 @@ Available places are assigned on a first come, first served basis.
 Please note also that to access DIMA a valid Italian green-pass or
 equivalent certification is required.
 
-We are trying to secure funds to offer shared accommodation to students
-and anyone who does not have access to other funding sources. Further
-information will follow.
+We can offer a limited number of places in shared accommodation. If you
+are interested, after registering, please write to
+
+enrico [dot] ghiorzi [at] gmail [dot] com 
+
+as soon as possible and no later than *November 26*. 
+Please write from the same email address that you used for registering. 
 
 
 ## Submission of talk proposals 
