@@ -10,7 +10,8 @@ layout: page
 
 If you want to attend the workshop, please fill in the form available [here](https://docs.google.com/forms/d/e/1FAIpQLSeM2NQJGQN9jp8mOj6bDLGKICjJierjNpxB3tOjnHPztE2WSw/viewform?usp=sf_link). 
 
-The registration deadline is 26 November. Participation is free of charge.
+The registration deadline is **26 November**. 
+Participation is free of charge.
 
 Due to safety regulations, the number of participants is limited.
 Available places are assigned on a first come, first served basis.
@@ -23,7 +24,7 @@ are interested, after registering, please write to
 
 enrico [dot] ghiorzi [at] gmail [dot] com 
 
-as soon as possible and no later than *November 26*. 
+as soon as possible and no later than **26 November**. 
 Please write from the same email address that you used for registering. 
 
 
