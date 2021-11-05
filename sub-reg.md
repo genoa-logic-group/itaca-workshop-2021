@@ -36,6 +36,7 @@ pdf) to:
 emmenegger [at] dima [dot] unige [dot] it 
 
 no later than **12 November**. Talks will be approximately 30 minutes long.
+We plan to schedule talks on Monday afternoon and Tuesday morning.
 
 
 
