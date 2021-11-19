@@ -37,6 +37,7 @@ plugins:
   - jekyll-feed
 
 header_pages: 
+ - speakers.md
  - sub-reg.md
  - committee.md 
  - venue.md 
