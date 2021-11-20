@@ -14,7 +14,7 @@ Lucrezia Bottegoni (Politecnico of Turin, University of Turin)
 Cipriano Junior Cioffo (Università degli Studi di Milano)  
 **Homotopy setoids and quotient completion** 
 
-Greta Coraglia (Università degli Studi di Genova)  
+Greta Coraglia (Università di Genova)  
 **Context, judgement, deduction** 
 
 Andrea Gagna (Institute of Mathematics, Czech Academy of Sciences)  
