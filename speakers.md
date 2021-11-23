@@ -11,6 +11,9 @@ layout: page
 {% else %}
 {{ t.author }} ({{ t.affiliation }})  
 {% endif -%}  
-**{{ t.title }}**
+**{{ t.title }}** <br/> 
+{%- if t.abs %}
+[abstract]({{ t.abs | prepend: '/assets/abstracts/' | relative_url }}){:target="_blank"} 
+{% endif %}
 
 {% endfor %}
