@@ -1,6 +1,6 @@
-#Antonio Lorenzin
+Antonio Lorenzin
 
-#Some developments on existence and uniqueness of DG-enhancements
+Some developments on existence and uniqueness of DG-enhancements
 
 In this talk, we discuss some developments about the existence and the (strong) uniqueness of DG-enhancements for triangulated categories.
 First, we deal with triangulated categories having a full strong exceptional sequence and explain when they admit a DG-enhancement.
