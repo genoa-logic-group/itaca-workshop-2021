@@ -14,6 +14,16 @@
   affiliation: Università di Genova
   title: Context, judgement, deduction 
   abs: "CoragliaG.pdf" 
+- author: Francesco Dagnino 
+  url: "https://fdgn.github.io"
+  affiliation: Università di Genova 
+  title: "Doctrines, modalities and comonads" 
+  abs: "DagninoF.pdf" 
+- author: Ivan Di Liberti  
+  url: "https://diliberti.github.io/" 
+  affiliation: "Czech Academy of Sciences" 
+  title: "Givant, Morley, Zilber" 
+  abs: "DiLibertiI.pdf" 
 - author: Andrea Gagna 
   affiliation: Institute of Mathematics, Czech Academy of Sciences
   title: Bilimits are bifinal objects 
@@ -54,6 +64,11 @@
   affiliation: University of Leeds
   title: Dialectica completion and Goedel fibrations 
   abs: "SpadettoM.txt" 
+- author: Davide Trotta 
+  url: "https://trottadavide.github.io/" 
+  affiliation: Università di Pisa 
+  title: "Applications of (weak) generalized existential completions to regular and exact Morita-equivalences" 
+  abs: "TrottaD.pdf" 
 - author: Joshua Liam Wrigley 
   affiliation: Università degli Studi dell’Insubria
   title: A topos-theoretic perspective on properly discontinuous actions 
