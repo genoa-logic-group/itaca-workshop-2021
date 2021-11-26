@@ -4,7 +4,7 @@ title: 2nd ItaCa Workshop
 layout: home
 ---
 
-The 2nd ItaCa Workshop will take place in Genoa, Italy, on 20-21 December. 
+The 2nd ItaCa Workshop will take place in Genoa, Italy, on 20-21 December, at DIMA.
 
 We are especially glad to host this ItaCa Workshop after the COVID19 pandemic prevented the event from taking place in 2020, and we are looking forward to meeting you in person.
 
