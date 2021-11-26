@@ -14,8 +14,6 @@ Students and early career researchers are particularly encouraged to attend and 
 
 The workshop will take place in person, but we plan to stream the talks on the ItaCa and DIMA YouTube channels. We also plan to register the talks and to upload them on the ItaCa YouTube channel.
 
-We plan to schedule talks on Monday afternoon and Tuesday morning.
-
 ## Important Dates
 
 |**Submission deadline**  | 12 November 2021    |
