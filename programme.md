@@ -5,35 +5,49 @@ permalink: /programme/
 layout: page
 ---
 
-|------------------------| 
-| **Monday 20 December**     | 
-|------------------------|
-| 13.30 - 15.00 | slot 1 |
-| 15.00 - 15.30 | break  |
-| 15.30 - 17.00 | slot 2 |
-| 17.00 - 17.30 | break  |
-| 17.30 - 18.30 | slot 3 |
-|------------------------| 
-| **Tuesday 21 December**    |
-|------------------------| 
-| 09.00 - 10.30 | slot 4 | 
-| 10.30 - 11.00 | break  | 
-| 11.00 - 12.30 | slot 5 | 
-| 12.30 - 14.00 | break  | 
-| 14.00 - 15.30 | slot 6 | 
-|------------------------| 
+{%- assign abs_url = '/assets/abstracts/' %} 
+{%- assign talks = site.data.talks | sort: 'slot' %} 
 
-## Speakers 
-
-{% for t in site.data.talks %}
-{% if t.url %}
-[{{ t.author }}]({{ t.url }}) ({{ t.affiliation }})  
-{% else %}
-{{ t.author }} ({{ t.affiliation }})  
-{% endif -%}  
-**{{ t.title }}** <br/> 
-{%- if t.abs %}
-[abstract]({{ t.abs | prepend: '/assets/abstracts/' | relative_url }}){:target="_blank"} 
+<table>
+  <tbody> 
+{% for t in talks %} 
+{% if t.slot == "1a" %}
+<tr> <th colspan="2">  Monday 20 December </th> </tr> 
 {% endif %}
+{% if t.slot == "4a" %}
+<tr> <th colspan="2"> Tuesday 21 December </th> </tr> 
+{% endif %} 
+<tr>
+  <td> {{ t.time }} </td>
+  <td> 
+    <a href="{{ t.abs | prepend: abs_url | relative_url }}" target="_blank">{{ t.author }}</a> 
+  </td>
+</tr> 
+{%- if t.slot == "1c" %}
+<tr> 
+  <td> 15.00 - 15.30 </td>
+  <td> <strong>coffee break</strong> </td>
+</tr> 
+{% endif -%} 
+{%- if t.slot == "2c" %}
+<tr>
+  <td> 17.00 - 17.30 </td>
+  <td> <strong>coffee break</strong> </td>
+</tr>
+{% endif -%} 
+{%- if t.slot == "4c" %}
+<tr>
+  <td> 10.30 - 11.00 </td>
+  <td> <strong>coffee break</strong> </td> 
+</tr>
+{% endif -%} 
+{%- if t.slot == "5c" %}
+<tr>
+  <td> 12.30 - 14.00 </td>
+  <td> <strong>lunch break</strong> </td>
+</tr> 
+{% endif -%} 
+{% endfor %} 
+</tbody> </table> 
 
-{% endfor %}
+

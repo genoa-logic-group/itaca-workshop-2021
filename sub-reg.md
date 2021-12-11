@@ -1,12 +1,10 @@
 ---
-title: Submissions & Registration 
+title: Registration 
 permalink: /register-submit/
 
 layout: page 
 ---
 
-
-## Registration 
 
 If you want to attend the workshop, please fill in the form available [here](https://docs.google.com/forms/d/e/1FAIpQLSeM2NQJGQN9jp8mOj6bDLGKICjJierjNpxB3tOjnHPztE2WSw/viewform?usp=sf_link). 
 
