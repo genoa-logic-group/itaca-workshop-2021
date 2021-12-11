@@ -13,9 +13,12 @@ layout: page
 {% for t in talks %} 
 {% if t.slot == "1a" %}
 <tr> <th colspan="2">  Monday 20 December </th> </tr> 
+<tr> <td> 13.00 - 13.25 </td> <td><strong>registration</strong></td> </tr> 
+<tr> <td> 13.25 - 13.30 </td> <td><strong>opening</strong></td> </tr> 
 {% endif %}
 {% if t.slot == "4a" %}
 <tr> <th colspan="2"> Tuesday 21 December </th> </tr> 
+<tr> <td> 08.15 - 09.00 </td> <td><strong>registration</strong></td> </tr> 
 {% endif %} 
 <tr>
   <td> {{ t.time }} </td>
@@ -48,6 +51,7 @@ layout: page
 </tr> 
 {% endif -%} 
 {% endfor %} 
+<tr> <td> 15.00 - 15.10 </td> <td><strong>closing</strong></td> </tr> 
 </tbody> </table> 
 
 
