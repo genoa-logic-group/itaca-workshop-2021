@@ -1,14 +1,22 @@
 ---
-title: Venue 
+title: Local Info
 permalink: /venue/ 
 
 layout: page
 ---
 
+### Venue 
+
 Conference Hall - Villa Cambiaso  
 Scuola Politecnica, Università di Genova  
 Via Montallegro 1/Via albaro  
 16145 Genoa (GE) - Italy  
+
+### Suggestions for lunch 
+
+* [Pizzeria del Ponte](https://www.tripadvisor.it/Restaurant_Review-g187823-d1099757-Reviews-Pizzeria_Ristorante_Del_Ponte-Genoa_Italian_Riviera_Liguria.html) 
+* [Strike!](https://www.tripadvisor.it/Restaurant_Review-g187823-d12951989-Reviews-Strike_Albaro-Genoa_Italian_Riviera_Liguria.html) 
+* [Mente Bar Bistrot](https://www.tripadvisor.it/Restaurant_Review-g187823-d12940609-Reviews-Mentelocale_Bar_Bistrot-Genoa_Italian_Riviera_Liguria.html) 
 
 <br> 
 
