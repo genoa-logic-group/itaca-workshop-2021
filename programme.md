@@ -18,7 +18,7 @@ layout: page
 {% endif %}
 {% if t.slot == "4a" %}
 <tr> <th colspan="2"> Tuesday 21 December </th> </tr> 
-<tr> <td> 08.15 - 09.00 </td> <td><strong>registration</strong></td> </tr> 
+<tr> <td> 08.45 - 09.00 </td> <td><strong>registration</strong></td> </tr> 
 {% endif %} 
 <tr>
   <td> {{ t.time }} </td>
