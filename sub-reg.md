@@ -14,7 +14,7 @@ Participation is free of charge.
 Due to safety regulations, the number of participants is limited.
 Available places are assigned on a first come, first served basis.
 
-Please note also that to access DIMA a valid Italian green-pass or
+Please note also that to access the workshop venue a valid Italian green-pass or
 equivalent certification is required.
 
 We can offer a limited number of places in shared accommodation. If you
