@@ -54,4 +54,8 @@ layout: page
 <tr> <td> 15.00 - 15.10 </td> <td><strong>closing</strong></td> </tr> 
 </tbody> </table> 
 
+**Note**: only coffee breaks are offered by the workshop organisation. Suggestions for lunch can be found here]({{ '/venue/' | relative_url }}).
+
+
+
 
