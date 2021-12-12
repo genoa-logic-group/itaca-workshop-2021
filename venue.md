@@ -12,7 +12,7 @@ For attending the workshop you must:
 1. appear in the list of registered participants, and
 2. have an Italian or EU Green Pass, or an equivalent certificate issued by other countries, which certifies that you are vaccinated with two doses of a [vaccine recognized by EMA](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/questions-and-answers-covid-19-vaccination-eu_en), or have recovered after being infected with SARS-CoV-2 and have bee vaccinated with one dose. Certificates of negative COVID tests are not valid to enter any of the buildings of the University of Genoa.
 
-Participants are expected to register either on the first day (20 December 2021) between 13:00 and 13:25 or on the second day (21 December 2021) between 8:45 and 9:00. If you arrive later on either days, you will be allowed in only during breaks (please see the programme [here]({{ '/programme/' | relative_rul }})).
+Participants are expected to register either on the first day (20 December 2021) between 13:00 and 13:25 or on the second day (21 December 2021) between 8:45 and 9:00. If you arrive later on either days, you will be allowed in only during breaks (please see the programme [here]({{ '/programme/' | relative_url }})).
 
 Before entering the building, on both days:
 
