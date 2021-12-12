@@ -5,6 +5,30 @@ permalink: /venue/
 layout: page
 ---
 
+### COVID-19 prescriptions
+
+For attending the workshop you must:
+
+1. appear in the list of registered participants, and
+2. have an Italian or EU Green Pass, or an equivalent certificate issued by other countries, which certifies that you are vaccinated with two doses of a [vaccine recognized by EMA](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/questions-and-answers-covid-19-vaccination-eu_en), or have recovered after being infected with SARS-CoV-2 and have bee vaccinated with one dose. Certificates of negative COVID tests are not valid to enter any of the buildings of the University of Genoa.
+
+Participants are expected to register either on the first day (20 December 2021) between 13:00 and 13:25 or on the second day (21 December 2021) between 8:45 and 9:00. If you arrive later on either days, you will be allowed in only during breaks (please see the programme [here]({{ '/programme/' | relative_rul }})).
+
+Before entering the building, on both days:
+
+1. your temperature will be checked, to ensure it is at most 37.5°C, and
+2. your Green Pass will be checked (you also need need to have an ID card with you).
+
+When inside the building you must:
+
+1. always wear a (at least surgical) face mask,
+2. keep a distance of at least one meter from other participants,
+3. use only the marked seats in the lecture room, and in any case do not seat at less than one meter from other participants,
+4. keep the same seat for the whole duration of the event.
+
+Coffee breaks will be served outside the building, please try to observe as much as possible the above measures during coffee breaks as well.
+
+
 ### Venue 
 
 Conference Hall - Villa Cambiaso  
