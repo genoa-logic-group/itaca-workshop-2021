@@ -5,7 +5,7 @@ permalink: /venue/
 layout: page
 ---
 
-### COVID-19 prescriptions
+### COVID-19 measures 
 
 For attending the workshop you must:
 
@@ -18,6 +18,7 @@ Before entering the building, on both days:
 
 1. your temperature will be checked, to ensure it is at most 37.5°C, and
 2. your Green Pass will be checked (you also need need to have an ID card with you).
+3. you have to fill out and sign the form available [here](https://intranet.unige.it/sites/intranet.unige.it/files/autocertificazione_esterni_def_231020.pdf). Printed copies of the form will be available at the workshop entrance, and we shall assist participants who do not speak Italian.
 
 When inside the building you must:
 
