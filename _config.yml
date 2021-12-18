@@ -39,8 +39,8 @@ plugins:
 header_pages: 
  - programme.md
  - speakers.md 
+ - participants.md 
  - sub-reg.md
- - committee.md 
  - venue.md 
 
 
