@@ -8,12 +8,14 @@
   affiliation: "Politecnico of Turin, University of Turin" 
   title: Semi-separability and conditions up to retracts 
   abs: "BottegoniL.pdf" 
+  slides: "BottegoniL.pdf" 
   slot: "4b"
   time: "09.30 - 10.00"
 - author: Cipriano Junior Cioffo 
   affiliation: Università degli Studi di Milano
   title: Homotopy setoids and quotient completion
   abs: "CioffoC.pdf" 
+  slides: "CioffoC.pdf" 
   slot: "2b" 
   time: "16.00 - 16.30"
 - author: Greta Coraglia 
@@ -47,6 +49,7 @@
   affiliation: Université catholique de Louvain
   title: Semi-abelian categories, Hopf algebras and internal groupoids 
   abs: "GranM.pdf" 
+  slides: "GranM.pdf" 
   slot: "4a"
   time: "09.00 - 09.30" 
 - author: Giulio Lo Monaco 
@@ -67,6 +70,7 @@
   affiliation: Scuola Normale Superiore di Pisa, Université de Strasbourg
   title: E_k-centers of monoidal infinity categories
   abs: "NoceraG.txt" 
+  slides: "NoceraG.pdf" 
   slot: "5b"
   time: "11.30 - 12.00"
 - author: Daniele Palombi

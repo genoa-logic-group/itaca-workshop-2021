@@ -13,7 +13,8 @@ layout: page
 {% endif -%}  
 **{{ t.title }}** <br/> 
 {%- if t.abs %}
-[abstract]({{ t.abs | prepend: '/assets/abstracts/' | relative_url }}){:target="_blank"} 
+[abstract]({{ t.abs | prepend: '/assets/abstracts/' | relative_url }}){:target="_blank"}
+{% if t.slides %} [slides]({{ t.slides | prepend: '/assets/slides/' | relative_url }}){:target="_blank"} {% endif %} 
 {% endif %}
 
 {% endfor %}
