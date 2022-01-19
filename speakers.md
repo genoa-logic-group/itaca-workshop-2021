@@ -15,6 +15,7 @@ layout: page
 {%- if t.abs %}
 [abstract]({{ t.abs | prepend: '/assets/abstracts/' | relative_url }}){:target="_blank"}
 {% if t.slides %} • [slides]({{ t.slides | prepend: '/assets/slides/' | relative_url }}){:target="_blank"} {% endif %} 
+{% if t.video %} • [video]({{ t.video }}){:target="_blank"} {% endif %} 
 {% endif %}
 
 {% endfor %}
